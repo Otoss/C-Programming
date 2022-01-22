@@ -1,1 +1,1 @@
-# C-Programming
+Solutions for C exercises.
